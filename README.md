@@ -22,7 +22,7 @@
 
 | # | Project | Key Topics | Status |
 |---|---------|------------|--------|
-| 1 | Security, Compliance & Identity Concepts | Zero Trust, CIA Triad, Shared Responsibility, AuthN vs AuthZ | 🔄 In Progress |
+| 1 | Security, Compliance & Identity Concepts | Zero Trust, CIA Triad, Shared Responsibility, AuthN vs AuthZ | ✅ Complete |
 | 2 | Microsoft Entra Capabilities | Entra ID, MFA, SSPR, Conditional Access, PIM, Identity Protection | ⏳ Upcoming |
 | 3 | Microsoft Security Solutions | Defender for Cloud, Microsoft Sentinel, SIEM/SOAR, Defender XDR | ⏳ Upcoming |
 | 4 | Microsoft Compliance Solutions | Microsoft Purview, Compliance Manager, DLP, Retention, eDiscovery | ⏳ Upcoming |
